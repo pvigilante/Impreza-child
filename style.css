@@ -1,0 +1,16 @@
+/*
+Theme Name: Impreza Child
+Template: Impreza
+Version: 1.0
+Author:	UpSolution
+Theme URI: http://impreza.us-themes.com/
+Author URI: http://us-themes.com/
+*/
+
+/*Add your own styles here:*/
+.default-copyright-text {
+    text-align: center;
+    padding: 0.5em;
+    background: #999999;
+    color: white;
+}
