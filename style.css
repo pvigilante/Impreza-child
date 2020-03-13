@@ -14,3 +14,24 @@ Author URI: http://us-themes.com/
     background: #999999;
     color: white;
 }
+.sponsor-item {
+    margin-top:4em;
+    margin-bottom: 3em;
+}
+.sponsor-item .sponsor-img {
+    position: relative;
+    height: 150px;
+    max-width: 150px;
+    border-radius: 150px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+.sponsor-item .sponsor-img img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
